@@ -5,5 +5,5 @@
 
 相关深度思考输出见公众号：**来知晓**。
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/3bbd79e357a744f49ad4dcdab4435abb.jpg)
+ ![在这里插入图片描述](https://img-blog.csdnimg.cn/3bbd79e357a744f49ad4dcdab4435abb.jpg, =400x300)
 
